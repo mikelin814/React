@@ -22,7 +22,7 @@ function Home() {
         } else {
             return ( 
                 <div key={k} >
-                <h1 className="text-center">User Details</h1>
+                <h1 className="text-center">Users</h1>
                 <hr />
                 <Container className="contai" style={{width: "100%"}}>
                   <Row className="ro" style={{gap: '10px', width: '100%'}}>
